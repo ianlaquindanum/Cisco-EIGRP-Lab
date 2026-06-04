@@ -1,7 +1,7 @@
 # EIGRP Routing Lab
 
 ## Objective
-Implement dyanmic routing using EIGRP with authentication.
+Implement dynamic routing using EIGRP with authentication.
 
 ## Features
 - Key chain
