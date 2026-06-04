@@ -9,7 +9,7 @@ Implement dyanmic routing using EIGRP with authentication.
 - Neighbor discovery
 - Route learning
 
-- ## Verification
+## Verification
   
   show ip eigrp neighbors
   
